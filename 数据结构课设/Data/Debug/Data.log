@@ -1,0 +1,8 @@
+﻿  Mgrap.cpp
+D:\文件\数据结构\Data\BaseDefine.h(13,1): warning C4005: “INFINITY”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : 参见“INFINITY”的前一个定义
+D:\文件\数据结构\Data\BaseDefine.h(20,1): warning C4005: “INFINITY”: 宏重定义
+D:\文件\数据结构\Data\BaseDefine.h(13): message : 参见“INFINITY”的前一个定义
+D:\文件\数据结构\Data\Mgrap.cpp(213,9): warning C4101: “y”: 未引用的局部变量
+D:\文件\数据结构\Data\Mgrap.cpp(298,11): warning C4101: “w”: 未引用的局部变量
+  Data.vcxproj -> D:\文件\数据结构\Data\Debug\Data.exe
